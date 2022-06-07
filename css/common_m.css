@@ -1,0 +1,486 @@
+@media screen and (max-width:1000px){
+  header.back{
+  background-color: none;
+  }
+  h4{
+    display: block;
+    width:30%;
+    background-color:none;
+    text-align:center;
+    float:left;
+    margin-top: 6%;
+    margin-left: 36%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 4vw;
+  }
+  /* h4 img{
+    width: 100%;
+    top:100px;
+  } */
+  .circle{
+    left: 63%;
+  }
+  #s0{
+    top: -10%;
+    background-size: 25%;
+  }
+  .main-text{
+    top: 27%;
+  }
+  .main-text2{
+    font-size: 2vw;
+    width: 290px;
+    left: 64%;
+    top: 38%;
+  }
+  .view{
+    bottom:23%;
+  }
+  .box-wrap{
+    position: relative;
+    width: 30%;
+    height: 60%;
+    margin: auto;
+    /* border: 1px solid white; */
+    top: 25%;
+    display: flex;
+    flex-direction: column;
+  }
+  .view2{
+    position: absolute;
+    width: 7%;
+    height: 4%;
+    font-family: 'Times New Roman', Times, serif;
+    left: 25%;
+    bottom: 20%;
+  } 
+
+  h2{
+    left: 16%;
+    top: 30%;
+  }
+  .s3-text{
+    font-size: 2vw;
+    left: 16%;
+    top: 40%;
+  }
+  .view3{
+    left: 16%;
+    bottom: 28%;
+  }
+  .main-box{
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .l-box{
+    width: 100%;
+    height: 40%;
+  }
+  h3{
+    font-size: 6vw;
+    text-align: center;
+    top: 18%;
+    left: 30%;
+  }
+  .view4{
+    position: absolute;
+    width: 7%;
+    height: 4%;
+    bottom: 12%;
+    left: 73%;
+  }
+  .view4 a{
+    color: black;
+    border: 1px solid black;
+  }
+  .r-box{
+    width: 100%;
+    height: 60%;
+    background-size: 40%;
+    background-position: center;
+    background-position: 50% 60%;
+  }
+
+}
+@media screen and (max-width:800px){
+  header.back{
+    background-color: none;
+    }
+  h4{
+    display: block;
+    width:30%;
+    background-color:none;
+    text-align:center;
+    float:left;
+    margin-top: 6%;
+    margin-left: 36%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 4vw;
+  }
+  #s0{
+    top: -10%;
+    background-size: 37%;
+    background-position: 84% 67%;
+  }
+  .main-text{
+    top: 31%;
+    font-size: 8vw;
+    left: 17%;
+  }
+  .main-text2{
+    top: 50%;
+    width: 299px;
+    font-size: 2.5vw;
+    left: 15%;
+    text-align: right;
+    line-height: 110%;
+  }
+  .circle{
+    display: none;
+  }
+  .view{
+    width: 100px;
+    bottom:25%;
+    left: 39%;
+  }
+  .view a{
+    font-size: 2vw;
+  }
+  .box-wrap{
+    position: relative;
+    width: 48%;
+    height: 67%;
+    margin: auto;
+    /* border: 1px solid white; */
+    top: 25%;
+    display: flex;
+    flex-direction: column;
+  }
+  .glory{
+    font-size: 14vw;
+  }
+  .view2{
+    width: 100px;
+    bottom: 15%;
+    left: 75%;
+  }
+  .view2 a{
+    font-size: 2vw;
+  }
+  .s3-main{
+    background-size: cover;
+    background-position-x: 45%;
+  }
+  h2{
+    left: 16%;
+    top: 25%;
+    font-size: 8vw;
+  }
+  .s3-text{
+    font-size: 2.2vw;
+    left: 16%;
+    width: auto;
+    top: 37%;
+    text-align: center;
+    line-height: 120%;
+  }
+  .view3{
+    width: 100px;
+    left: 46%;
+    bottom: 18%;
+  }
+  .view3 a{
+    font-size: 2vw;
+  }
+  .main-box{
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .l-box{
+    width: 100%;
+    height: 40%;
+  }
+  h3{
+    font-size: 7vw;
+    text-align: center;
+    top: 19%;
+    left: 27%;
+  }
+  .view4{
+    width: 100px;
+    display: block;
+    bottom: 10%;
+    left: 78%;
+  }
+  .view4 a{
+    font-size: 2vw;
+    color: black;
+    border: 1px solid black;
+  }
+  .r-box{
+    width: 100%;
+    height: 60%;
+    background-size: 55%;
+    background-position: center;
+    background-position: 50% 75%;
+  }
+}
+@media screen and (max-width:650px){
+  header.back{
+    background-color: none;
+    }
+  .contents{
+    position: relative;
+    height: 100%;
+    width: 100%;
+  }
+  h4{
+    display: block;
+    width:30%;
+    background-color:none;
+    text-align:center;
+    float:left;
+    margin-top: 6%;
+    margin-left: 33%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 4vw;
+  }
+  #s0{
+    width: 100%;
+    height: 100%;
+    top: -10%;
+    background-size: 55%;
+    background-position: 82% 70%;
+  }
+  .main-text{
+    top: 28%;
+    font-size: 14vw;
+    left: 23%;
+  }
+  .main-text2{
+    top: 55%;
+    width: 460px;
+    font-size: 3vw;
+    left: 20.5%;
+    text-align: right;
+    line-height: 200%;
+  }
+  .circle{
+    display: none;
+  }
+  .view{
+    width: 100px;
+    bottom:17%;
+    left: 76%;
+  }
+  .view a{
+      font-size: 2vw;
+  }
+  .box-wrap{
+    position: relative;
+    width: 48%;
+    height: 67%;
+    margin: auto;
+    /* border: 1px solid white; */
+    top: 25%;
+    display: flex;
+    flex-direction: column;
+  }
+  .glory{
+    font-size: 14vw;
+  }
+  .view2{
+    width: 100px;
+    bottom: 15%;
+    left: 75%;
+  }
+  .view2 a{
+    font-size: 2vw;
+  }
+  .s3-main{
+    background-size: cover;
+    background-position-x: 45%;
+  }
+  h2{
+    left: 16%;
+    top: 25%;
+    font-size: 8vw;
+  }
+  .s3-text{
+    font-size: 2.2vw;
+    left: 16%;
+    top: 37%;
+    text-align: center;
+    line-height: 120%;
+  }
+  .view3{
+    width: 100px;
+    left: 46%;
+    bottom: 18%;
+  }
+  .view3 a{
+    font-size: 2vw;
+  }
+  .main-box{
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .l-box{
+    width: 100%;
+    height: 40%;
+  }
+  h3{
+    font-size: 7vw;
+    text-align: center;
+    top: 19%;
+    left: 27%;
+  }
+  .view4{
+    width: 100px;
+    display: block;
+    bottom: 10%;
+    left: 78%;
+  }
+  .view4 a{
+    font-size: 2vw;
+    color: black;
+    border: 1px solid black;
+  }
+  .r-box{
+    width: 100%;
+    height: 60%;
+    background-size: 55%;
+    background-position: center;
+    background-position: 50% 75%;
+  }
+}
+@media screen and (max-width:450px){
+  header.back{
+    background-color: none;
+    }
+  .contents{
+    position: relative;
+    height: 100%;
+    width: 100%;
+  }
+  h4{
+    display: block;
+    width:30%;
+    background-color:none;
+    text-align:center;
+    float:left;
+    margin-top: 6%;
+    margin-left: 31%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 8vw;
+  }
+  #s0{
+    width: 100%;
+    height: 100%;
+    top: -10%;
+    background-size: 55%;
+    background-position: 82% 70%;
+  }
+  .main-text{
+    top: 28%;
+    font-size: 14vw;
+    left: 23%;
+  }
+  .main-text2{
+    top: 55%;
+    width: auto;
+    font-size: 3vw;
+    margin-right: 5%;
+    text-align: right;
+    line-height: 130%;
+  }
+  .circle{
+    display: none;
+  }
+  .view{
+    width: 100px;
+    bottom: 10px;
+    left: 205px;
+  }
+  .view a{
+      font-size: 3vw;
+  }
+  .box-wrap{
+    position: relative;
+    width: 60%;
+    height: 50%;
+    margin: auto;
+    margin-left: 25%;
+    /* border: 1px solid white; */
+    top: 25%;
+    display: flex;
+    flex-direction: column;
+  }
+  .glory{
+    font-size: 18vw;
+  }
+  .view2{
+    width: 100px;
+    bottom: 23%;
+    left: 44%;
+  }
+  .view2 a{
+    font-size: 3vw;
+  }
+  .s3-main{
+    background-size: cover;
+    background-position-x: 45%;
+  }
+  h2{
+    left: 16%;
+    top: 25%;
+    font-size: 8vw;
+  }
+  .s3-text{
+    font-size: 4vw;
+    top: 30%;
+    text-align: center;
+    line-height: 100%;
+    margin-right: 42px;
+  }
+  .view3{
+    width: 100px;
+    left: 41%;
+    bottom: 15%;
+  }
+  .view3 a{
+    font-size: 3vw;
+  }
+  .main-box{
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .l-box{
+    width: 100%;
+    height: 40%;
+  }
+  h3{
+    font-size: 11vw;
+    text-align: center;
+    top: 22%;
+    left: 15%;
+  }
+  .view4{
+    width: 100px;
+    display: block;
+    bottom: 5%;
+    left: 18%;
+  }
+  .view4 a{
+    font-size: 3vw;
+    color: black;
+    border: 1px solid black;
+  }
+  .r-box{
+    width: 100%;
+    height: 60%;
+    background-size: 90%;
+    background-position: center;
+    background-position: 65% 55%;
+  }
+}

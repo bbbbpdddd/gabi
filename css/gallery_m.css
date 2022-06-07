@@ -1,0 +1,117 @@
+@charset "utf-8";
+
+@media screen and (max-width:1000px){
+  h4{
+    display: block;
+    width:30%;
+    background-color:none;
+    text-align:center;
+    float:left;
+    margin-top: 6%;
+    margin-left: 36%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 4vw;
+  }
+}
+@media screen and (max-width:800px){
+  h4{
+    display: block;
+    width:30%;
+    background-color:none;
+    text-align:center;
+    float:left;
+    margin-top: 6%;
+    margin-left: 36%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 6vw;
+  }
+  body #scene{
+    top: 30%;
+    height: 450px;
+  }
+  body #scene #left-zone .list li.item input[type=radio] ~ label{
+    font-size: 4vw;
+    height: 70px;
+  }
+  body #scene #left-zone .list li.item input[type=radio] ~ .content.content_spicy h2,
+  body #scene #left-zone .list li.item input[type=radio] ~ .content.content_woody h2,
+  body #scene #left-zone .list li.item input[type=radio] ~ .content.content_oriental h2,
+  body #scene #left-zone .list li.item input[type=radio] ~ .content.content_powdery h2{
+    font-size: 4vw;
+  }
+  body #scene #left-zone .list li.item input[type=radio] ~ .content p{
+    font-size: 2.5vw;
+  }
+  .main-bt a{
+    font-size: 4vw;
+    width: 200%;
+  }
+}
+@media screen and (max-width:650px){
+  h4{
+    display: block;
+    width:30%;
+    background-color:none;
+    text-align:center;
+    float:left;
+    margin-top: 6%;
+    margin-left: 36%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 6vw;
+  }
+  body #scene{
+    top: 30%;
+    height: 450px;
+  }
+  body #scene #left-zone .list li.item input[type=radio] ~ label{
+    font-size: 4vw;
+    height: 70px;
+  }
+  body #scene #left-zone .list li.item input[type=radio] ~ .content.content_spicy h2,
+  body #scene #left-zone .list li.item input[type=radio] ~ .content.content_woody h2,
+  body #scene #left-zone .list li.item input[type=radio] ~ .content.content_oriental h2,
+  body #scene #left-zone .list li.item input[type=radio] ~ .content.content_powdery h2{
+    font-size: 4vw;
+  }
+  body #scene #left-zone .list li.item input[type=radio] ~ .content p{
+    font-size: 2.5vw;
+  }
+  .main-bt a{
+    font-size: 4vw;
+    width: 200%;
+  }
+}
+@media screen and (max-width:450px){
+  h4{
+    display: block;
+    width:30%;
+    background-color:none;
+    text-align:center;
+    float:left;
+    margin-top: 6%;
+    margin-left: 36%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 6vw;
+  }
+  body #scene{
+    top: 30%;
+    height: 450px;
+  }
+  body #scene #left-zone .list li.item input[type=radio] ~ label{
+    font-size: 4vw;
+    height: 70px;
+  }
+  body #scene #left-zone .list li.item input[type=radio] ~ .content.content_spicy h2,
+  body #scene #left-zone .list li.item input[type=radio] ~ .content.content_woody h2,
+  body #scene #left-zone .list li.item input[type=radio] ~ .content.content_oriental h2,
+  body #scene #left-zone .list li.item input[type=radio] ~ .content.content_powdery h2{
+    font-size: 4vw;
+  }
+  body #scene #left-zone .list li.item input[type=radio] ~ .content p{
+    font-size: 2.5vw;
+  }
+  .main-bt a{
+    font-size: 4vw;
+    width: 200%;
+  }
+}
